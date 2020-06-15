@@ -1,0 +1,66 @@
+{
+    "squadName": "Badass Squad",
+    "world": "Anime World",
+    "active": true,
+    "members": [
+        {
+            "name": "Yami Sukehiro",
+            "position": "Captain of the Black Bulls",
+            "nickName": "None",
+            "age": 28,
+            "address": "Land of the Rising Sun",
+            "speciality": [
+                "Dark Magic", 
+                "Katana",
+                "Dimensionless Slash"
+            ]
+        },
+        {
+            "name": "Julius NovaChrono",
+            "position": "Wizard King",
+            "nickName": "None",
+            "age": 34,
+            "address": "Clover Kingdom",
+            "speciality": [
+                "Time Magic",
+                "Teleportation",
+                "Chrono Astasis"
+            ]
+        },        
+        {
+            "name": "Kakashi Hatake",
+            "position": "Sixth Hokage",
+            "age": 28,
+            "nickName": "Copy Ninja",
+            "address": "Konohagakure",
+            "speciality": [
+                "Chidori",
+                "Purple Lightning",
+                "Copy Jutsu-Sharingan"
+            ]
+        },
+        {
+            "name": "Jiraiya",
+            "position": "Legendary Sannin",
+            "nickName": "Toad Sage",
+            "age": 50,
+            "address": "Konohagakure",
+            "speciality": [
+                "Sage Mode",
+                "Rasengan",
+                "Summoning Jutsu"
+            ]
+        },
+        {
+            "name": "Roy Mustang",
+            "nickName": "Flame Alchemist",
+            "position": "Colonel",
+            "age": 28,
+            "address": "Resembole",
+            "speciality": [
+                "Flame Alchemy"
+            ],
+            "quote": "The power of one man doesn't amount to much. But, however little strength I'm capable of, I'll do everything humanly possible to protect the people I love. In turn, they will protect the ones they love. It seems like the least we tiny humans can do for each other."
+        }
+    ]
+}
